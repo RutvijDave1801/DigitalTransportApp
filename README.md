@@ -81,7 +81,10 @@ Have a bug or a feature request? Please first read the [Open the issue](https://
 
 ### Running documentation locally
 
-1. Clone the respository and follow
+1. Clone the respository 
+2. Should have google firebase account
+3. Should have razor pay account
+4. Thats it! You are ready to go!!
 
 ### Documentation for previous releases
 
