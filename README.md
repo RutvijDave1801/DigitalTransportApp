@@ -43,7 +43,7 @@ Our default branch is for development of our upcoming application release. Head 
 
 Several quick start options are available:
 
-- [Download the latest release](https://drive.google.com/uc?export=download&id=1rdRAfXzIut5kyStgpbcnJD8NfLJoCLec)
+- [Download the latest release](https://drive.google.com/file/d/1rdRAfXzIut5kyStgpbcnJD8NfLJoCLec/view?usp=sharing)
 - Clone the repo: `https://github.com/RutvijDave1801/Digital-Public-Transport/archive/main.zip`
 - Install [Flutter](https://flutter.dev/docs/get-started/install/windows)
 - Install [Android Studio](https://developer.android.com/studio)
